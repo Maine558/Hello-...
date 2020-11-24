@@ -2,7 +2,8 @@ using System;
 
 namespace GG
 {
-    class Program
+   
+   class Program
     {
 
         static void Main()
